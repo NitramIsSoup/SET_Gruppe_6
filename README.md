@@ -4,6 +4,7 @@
 * **Mahmad**
 * **Leander**
 * **Frederik**
+* **Martin**
 
 ### Hovedfokus i prosjektet (Teknisk implementasjon)
 
